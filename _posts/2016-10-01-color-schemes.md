@@ -3,7 +3,7 @@ layout: post
 title: Color Schemes
 description: Choose from 20 color schemes that are pre-installed or create a scheme yourself! This will allow you to tweak the website to completely match your style.
 categories: general
-author: ashwathama
+author: Charlesup
 ---
 
 ## Available Color Schemes in Full Version

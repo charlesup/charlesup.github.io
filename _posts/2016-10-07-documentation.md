@@ -3,7 +3,7 @@ layout: post
 title: Documentation
 description: Documentation will have all the features of the theme mentioned in sections. You can delete this after installation but it is good to keep it as unpublished so that only you can read it.
 categories: general
-author: ashwathama
+author: Charlesup
 ---
 
 ## Features
@@ -19,7 +19,7 @@ The theme uses a minimal layout for simplicity. Only the things that matter are 
 **Images:**
 
 Small images will be shown at their actual size.
-![small image]({{site.baseurl}}/images/ashwathama-1.jpg)
+![small image]({{site.baseurl}}/images/Charlesup-1.jpg)
 
 
 Large images will always scale down and fit in the content container.
